@@ -1,3 +1,3 @@
 # ASM_Project
 
-The base of this project is using OpenCV library 2.4.11 for Android. This project used jni to compile the stasm library, which is wrote in C++ and is imported to find facial landmarks of a person. I program to open the front camera of my Android cellphone and get the input video frame from camera. Meanwhile, doing face detection, canny edge detection, facial landmark detection at the same time. This application can give appropriate suggestions when people take selfies.
+The base of this project is using OpenCV library 2.4.11 for Android. This project used jni to compile the stasm library, which is wrote in C++ and is imported to find facial landmarks of a person. I program to open the front camera of my Android cellphone and get the input video frames from camera. Meanwhile, doing face detection, canny edge detection, facial landmark detection at the same time. This application can give appropriate suggestions when people take selfies.
